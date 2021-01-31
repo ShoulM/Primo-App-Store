@@ -64,7 +64,7 @@
     "listdirs": "3.0.0",
     "lodash": "^4.17.11",
     "merge-stream": "1.0.0",
-    "minimist": "1.2.0",
+    "minimist": "1.2.5",
     "multer": "^1.4.1",
     "ncp": "^2.0.0",
     "ng-dialog": "^1.4.0",
